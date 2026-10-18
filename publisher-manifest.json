@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e10a1db04e4f46a43bd1e29b",
+  "owner": "qqeeuqvba",
+  "repo": "page-81d94262316f93c2e434a893",
+  "title": "TOTYUN机场(TOTYUN)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "81d94262316f93c2e434a893",
+      "a": "TOTYUN机场(TOTYUN)",
+      "b": "",
+      "entity": "TOTYUN机场(TOTYUN)",
+      "brand": "TOTYUN机场(TOTYUN)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bbe006a2b1162eb81737abf21dbbb452af7f7d7e74ebaca345e8bd7a1cef74d3",
+      "content": {
+        "keyword1": "TOTYUN机场(TOTYUN)",
+        "keyword2": "",
+        "primary_entity": "TOTYUN机场(TOTYUN)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TOTYUN机场(TOTYUN)档位与节点说明页面，按月与按年两种计费方式，区分基础、旗舰与团队三档，列示流量、设备数与可用线路类型。",
+          "AI_DESCRIPTION": "TOTYUN机场(TOTYUN)档位与节点说明页面，按月与按年两种计费方式，区分基础、旗舰与团队三档，列示流量、设备数与可用线路类型。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\nhtml,body{margin:0;padding:0;background:#f4ede1;color:#2a1c10;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}\n*{box-sizing:border-box}\na{color:#2a1c10;text-decoration:none;border-bottom:1px solid #2a1c10}\na:hover{background:#b6e3c8;color:#2a1c10}\n.topbar{position:sticky;top:0;z-index:10;background:#2a1c10;color:#f4ede1;border-bottom:1px solid #1a1108}\n.topbar-inner{max-width:1240px;margin:0 auto;padding:14px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}\n.brand-mark{font-weight:600;letter-spacing:0.18em;font-size:13px}\n.brand-mark span{color:#b6e3c8}\n.topnav{display:flex;gap:22px;flex-wrap:wrap}\n.topnav a{color:#f4ede1;border-bottom:none;font-size:13px;letter-spacing:0.06em}\n.topnav a:hover{background:#b6e3c8;color:#2a1c10}\n.wrap{max-width:1240px;margin:0 auto;padding:0 28px}\n.hero{padding:72px 0 56px;border-bottom:1px solid #d8c8ae}\n.hero-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:36px;align-items:start}\n.hero h1{font-size:46px;line-height:1.15;letter-spacing:-0.01em;margin:0 0 18px;font-weight:700}\n.hero h1 em{font-style:normal;color:#7a4a2b;display:block;font-size:18px;font-weight:400;letter-spacing:0.16em;margin-bottom:14px}\n.hero .lead{font-size:16px;color:#4a3a28;max-width:46ch;margin:0}\n.hero .pull{font-size:22px;line-height:1.45;color:#2a1c10;border-left:3px solid #b6e3c8;padding:4px 0 4px 18px;margin:8px 0 0}\n.hero .pull cite{display:block;font-style:normal;font-size:13px;color:#7a4a2b;margin-top:10px;letter-spacing:0.08em}\n.hero .side{margin:0;padding:0;display:flex;flex-direction:column;gap:22px}\n.hero .side h2{font-size:13px;letter-spacing:0.2em;color:#7a4a2b;margin:0 0 8px;font-weight:600;text-transform:uppercase}\n.hero .side p{margin:0;font-size:14px;color:#3a2c1c}\n.hero .side ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;font-size:14px}\n.hero .side ul li{padding-left:14px;border-left:1px solid #b6e3c8}\nsection{padding:64px 0;border-bottom:1px solid #d8c8ae}\nsection:last-child{border-bottom:none}\n.section-head{max-width:720px;margin:0 0 36px}\n.section-head .kicker{font-size:12px;letter-spacing:0.24em;color:#7a4a2b;text-transform:uppercase;margin-bottom:10px}\n.section-head h2{font-size:32px;line-height:1.2;margin:0 0 12px;font-weight:700}\n.section-head p{margin:0;color:#4a3a28;font-size:15px;max-width:60ch}\n.cols-3{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}\n.cols-2{display:grid;grid-template-columns:1fr 1fr;gap:48px}\n.item h3{font-size:20px;margin:0 0 8px;font-weight:600}\n.item p{margin:0 0 12px;color:#3a2c1c;font-size:14px}\n.item .meta{font-size:12px;color:#7a4a2b;letter-spacing:0.12em;text-transform:uppercase}\n.plans{display:flex;flex-direction:column;gap:36px}\n.plan{padding:32px 0}\n.plan + .plan{border-top:1px solid #d8c8ae}\n.plan .row1{display:flex;flex-wrap:wrap;align-items:baseline;gap:18px;margin-bottom:6px}\n.plan .row1 h3{font-size:26px;margin:0;font-weight:700}\n.plan .row1 .price{font-size:22px;color:#2a1c10;font-weight:600}\n.plan .row1 .price small{font-size:13px;color:#7a4a2b;font-weight:400;margin-left:4px;letter-spacing:0.06em}\n.plan .row1 .badge{background:#b6e3c8;color:#2a1c10;font-size:11px;letter-spacing:0.16em;padding:4px 10px;font-weight:600}\n.plan .annual{font-size:14px;color:#4a3a28;margin:0 0 22px}\n.plan ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,1fr);gap:10px 32px}\n.plan ul li{font-size:14px;padding-left:16px;position:relative}\n.plan ul li::before{content:\"\";position:absolute;left:0;top:9px;width:6px;height:6px;background:#b6e3c8}\n.faq details{padding:18px 0;border-top:1px solid #d8c8ae}\n.faq details:last-of-type{border-bottom:1px solid #d8c8ae}\n.faq summary{cursor:pointer;font-size:16px;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:18px}\n.faq summary::-webkit-details-marker{display:none}\n.faq summary::after{content:\"+\";font-size:20px;color:#7a4a2b;font-weight:400;transition:transform 0.2s}\n.faq details[open] summary::after{content:\"−\"}\n.faq details p{margin:14px 0 0;color:#3a2c1c;font-size:14px;max-width:70ch}\n.usage ol{padding-left:20px;margin:0}\n.usage ol li{margin-bottom:14px;font-size:15px;color:#3a2c1c}\n.usage ol li strong{color:#2a1c10;display:block;margin-bottom:4px;font-weight:600}\n.foot{padding:40px 0 56px;background:#2a1c10;color:#d8c8ae;margin-top:40px}\n.foot-inner{max-width:1240px;margin:0 auto;padding:0 28px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:18px;font-size:13px;letter-spacing:0.06em}\n.foot a{color:#b6e3c8;border-bottom:none}\n@media (max-width:900px){\n.hero-grid{grid-template-columns:1fr;gap:24px}\n.hero h1{font-size:34px}\n.cols-3,.cols-2{grid-template-columns:1fr;gap:24px}\n.plan ul{grid-template-columns:1fr}\n.topnav{width:100%;justify-content:flex-start}\n}\n</style><header class=\"topbar\">\n<div class=\"topbar-inner\">\n<div class=\"brand-mark\">TOTYUN<span> · </span>机场档位说明</div>\n<nav class=\"topnav\" aria-label=\"页内导航\">\n<a href=\"#plans\">档位</a>\n<a href=\"#usage\">使用说明</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#contact\">联系</a>\n</nav>\n</div>\n</header>\n<main>\n<section class=\"hero\">\n<div class=\"wrap\">\n<div class=\"hero-grid\">\n<div class=\"lead-col\">\n<em>服务说明 · 第一版</em>\n<h1>TOTYUN机场(TOTYUN) · TOTYUN机场档位说明</h1>\n<p class=\"lead\">本文为 TOTYUN机场(TOTYUN)面向订阅用户的档位与节点说明，按月付与年付两种计费周期展开。文中列示基础、旗舰、团队三档的流量配额、设备数限制与可用线路类型，便于在订阅前进行比对。</p>\n</div>\n<aside class=\"side\">\n<div>\n<h2>本期要点</h2>\n<ul>\n<li>三档订阅，对应不同流量与设备上限</li>\n<li>按月付与按年付两种计费方式</li>\n<li>旗舰档提供 IPLC 专线</li>\n<li>团队档支持企业定制路由</li>\n</ul>\n</div>\n</aside>\n<aside class=\"side\">\n<div>\n<h2>节点类型一览</h2>\n<p>普通线路节点池用于一般流量转发；IPLC 专线用于对延迟敏感的业务；VIP 专属高带宽节点用于大流量场景。节点的实际可用情况以订阅后客户端内列表为准。</p>\n</div>\n<div>\n<h2>流媒体解锁</h2>\n<p>基础档提供基础流媒体范围；旗舰档在此基础上扩展原生流媒体覆盖。具体可解锁的平台名单随节点维护情况调整。</p>\n</div>\n</aside>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<div class=\"section-head\">\n<div class=\"kicker\">01 · 档位</div>\n<h2>三档订阅，单列依次说明</h2>\n<p>以下三档按流量与设备数从小到大排列，价格、流量、设备上限与可用线路类型均不同；按月付与按年付对应不同结算金额。</p>\n</div>\n<div class=\"plans\">\n\n<article class=\"plan\">\n<div class=\"row1\">\n<h3>基础版</h3>\n<div class=\"price\">¥15<small>/月</small></div>\n</div>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n\n<article class=\"plan\">\n<div class=\"row1\">\n<h3>旗舰版</h3>\n<div class=\"price\">¥35<small>/月</small></div>\n<div class=\"badge\">推荐</div>\n</div>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n\n<article class=\"plan\">\n<div class=\"row1\">\n<h3>团队版</h3>\n<div class=\"price\">¥85<small>/月</small></div>\n</div>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n\n</div>\n</div>\n</section>\n\n<section id=\"usage\">\n<div class=\"wrap\">\n<div class=\"section-head\">\n<div class=\"kicker\">02 · 使用说明</div>\n<h2>订阅前后需要了解的步骤</h2>\n<p>以下为一般性的操作次序，具体客户端与导入方式以订阅后收到的指引文档为准。</p>\n</div>\n<div class=\"cols-2 usage\">\n<ol>\n<li><strong>选择档位</strong>根据每月流量与同时在线设备数判断所需档位。三档之间可补差价升级，月付与年付之间按结算周期独立处理。</li>\n<li><strong>完成结算</strong>按月付或按年付结算对应金额。年付按整年计费，中间不再退还未使用月份。</li>\n<li><strong>接收订阅信息</strong>结算完成后获取订阅链接与初始配置参数，请妥善保存，避免泄露。</li>\n<li><strong>导入客户端</strong>将订阅链接粘贴至所选客户端，由客户端拉取节点列表并完成分组。</li>\n<li><strong>选择节点</strong>根据业务类型在客户端中选取对应线路类型，IPLC 专线为旗舰档与团队档可选。</li>\n<li><strong>关注流量</strong>每月流量额度在结算周期内累计，超出部分按所选档位的规则处理。</li>\n</ol>\n<div>\n<h3>档位对照速览</h3>\n<p>基础版对应单人或小流量场景；旗舰版适合日常流媒体与对延迟敏感的业务；团队档用于多设备并发与企业级路由需求。</p>\n<p>各档位的设备同时在线数为硬性上限，超过该数量的连接会被服务端拒绝。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<div class=\"section-head\">\n<div class=\"kicker\">03 · 常见问题</div>\n<h2>订阅前常被问到的问题</h2>\n<p>以下为一般性问题与对应答复，未涵盖的情况可通过页面底部联系方式进一步询问。</p>\n</div>\n<div class=\"faq\">\n\n<details>\n<summary>基础版与旗舰版的主要差别是什么？</summary>\n<p>基础版与旗舰版的差别集中在三个维度：每月流量配额分别为 100GB 与 300GB；设备同时在线数分别为 3 台与 5 台；线路类型上前者仅含普通线路节点池，后者在此之上加入 IPLC 专线。流媒体解锁范围也不同，旗舰版提供全节点原生流媒体解锁。</p>\n</details>\n\n<details>\n<summary>团队版是否提供企业发票或对公结算？</summary>\n<p>团队版定位为多设备并发场景，提供 VIP 专属高带宽节点与专属客户经理服务。关于发票与对公结算，请通过页面底部联系方式与团队档客服进一步对接。</p>\n</details>\n\n<details>\n<summary>按年付是否会在年中退还未使用部分？</summary>\n<p>按年付以一年为结算单位，年内不再按月退还未使用月份。续费时按到期日的下一周期结算，不会自动延续。</p>\n</details>\n\n<details>\n<summary>IPLC 专线适合哪些场景？</summary>\n<p>IPLC 专线适用于对延迟与稳定性要求较高的场景，例如实时语音、特定游戏的网络环境以及跨国分支机构的内部流量。专线节点的实际覆盖地区随维护情况调整。</p>\n</details>\n\n<details>\n<summary>设备同时在线数如何计算？</summary>\n<p>设备同时在线数指同一订阅账号下、同时与服务端保持活跃连接的不同设备数量；同一设备重复连接按一台计算。该数值为服务端硬性上限。</p>\n</details>\n\n<details>\n<summary>超出每月流量配额会怎样？</summary>\n<p>超出当月流量配额后，连接会被服务端限速或暂停，具体以订阅档位对应的规则为准。流量额度在每个结算周期内累计，不会结转至下一周期。</p>\n</details>\n\n<details>\n<summary>不同档位之间能否中途升级或降级？</summary>\n<p>档位之间可以更换。升级时按剩余周期与新档位差价结算；降级则在当前结算周期结束后于下一周期生效。具体差价由当期规则决定。</p>\n</details>\n\n<details>\n<summary>订阅链接应该如何保存？</summary>\n<p>订阅链接包含账号标识，建议保存至加密笔记或受信密码管理工具中。链接泄露后他人可使用对应流量额度，请勿公开发布。</p>\n</details>\n\n</div>\n</div>\n</section>\n\n<section id=\"contact\">\n<div class=\"wrap\">\n<div class=\"section-head\">\n<div class=\"kicker\">04 · 联系</div>\n<h2>咨询与对接</h2>\n<p>关于档位细节、企业对接或订阅后遇到的配置问题，可通过下方方式联系。</p>\n</div>\n<div class=\"cols-3\">\n<div class=\"item\">\n<h3>订阅前咨询</h3>\n<p>适用于档位选择、计费方式与企业场景对接等售前问题。</p>\n<p class=\"meta\">一般工作日内答复</p>\n</div>\n<div class=\"item\">\n<h3>订阅后工单</h3>\n<p>适用于节点不可用、订阅链接失效、客户端导入等售后问题。旗舰版与团队版享有优先处理顺序。</p>\n<p class=\"meta\">按档位优先级响应</p>\n</div>\n<div class=\"item\">\n<h3>团队档对接</h3>\n<p>团队档提供专属客户经理服务，可用于长期使用规划与企业路由调整。</p>\n<p class=\"meta\">团队档订阅后启用</p>\n</div>\n</div>\n</div>\n</section>\n</main>\n<footer class=\"foot\">\n<div class=\"foot-inner\">\n<div>TOTYUN机场(TOTYUN) · 档位与节点说明</div>\n<div>本页内容为档位与节点类型的说明性文档，具体可用性与价格以订阅时为准。</div>\n</div>\n</footer>",
+          "hash": "156d140f0352c52487eea511b58044a3ba2181ae2efced4f4545a0aeec821e77",
+          "seo": {
+            "title": "TOTYUN机场 — 节点与流量档位说明",
+            "keywords": "TOTYUN机场,TOTYUN,节点档位,流量说明,设备数,线路类型,年付月付",
+            "description": "TOTYUN机场(TOTYUN)档位与节点说明页面，按月与按年两种计费方式，区分基础、旗舰与团队三档，列示流量、设备数与可用线路类型。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "1218",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bmxbk.cn",
+    "host": "p-c58f44511b.bmxbk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b9f3475daeafc7677a9dae3d2e17b6ad8dd6181e2e2140c125a8f3b25b0de488",
+    "sitemap.xml": "62b5f31bc5cba917e35aa10e357fb46fddb534fb9a5f0657f1b2086640bab470",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1924065bdb1213de1710eb5cdec5540f8d51300394b9766c632a5d11ffb97627",
+    "robots.txt": "e3765f702fe6326b99690602057125686e2e373bca8ce57c63f7c414d27b55d7",
+    "55d43bb84f5cf00a23abd08dc40ac35a.txt": "b225c07c9b1f38c329a0efaab03b0f99132886e26d771b768c74db703df39983"
+  },
+  "revision": "2a50ba0da1bab647fd7341538dd35ec5a0c4d1c7c4edd831797e19f94fc5ca8a"
+}
